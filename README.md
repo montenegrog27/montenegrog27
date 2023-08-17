@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi everyone! my name is Germán Montenegro⚡
 
-<!--
-**montenegrog27/montenegrog27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⭐Who I am❓
+I am a front-end oriented Fullstack programmer.
+Since I was a child I was very creative and very curious about the world of technology, so studying programming has given me the tools to work on this.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐What I do❓
+Right now I am dedicated to my own projects with the aim of advancing and including new technologies in my stack as a programmer
+
+---
+
+### ⭐What is my goals❓
+Ny goal is to become an expert programmer, I love learning new technologies
+
+---
+
+### ⭐What technologies do I use?❓
+ 🔹JavaScript
+ 🔹React JS
+ 🔹Redux
+ 🔹TailwindCSS
+ 🔹HTML
+ 🔹CSS
+ 🔹Express
+ 🔹NodeJS
+ 🔹PostgreSQL
+
+---
+
+### ⭐Contact Me
+[Linkedin](https://www.linkedin.com/in/german-montenegro-rolon/)
+Email: german2717@gmail.com

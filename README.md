@@ -1,4 +1,4 @@
-## Hi everyone! my name is Germán Montenegro⚡
+## Hi everyone!👋 My name is Germán Montenegro⚡
 
 ### 🔵 Who I am❓
 I am a front-end oriented Fullstack programmer.
@@ -29,6 +29,6 @@ Ny goal is to become an expert programmer, I love learning new technologies
 
 ---
 
-### ⭐Contact Me
+### 🔵Contact Me
 [Linkedin](https://www.linkedin.com/in/german-montenegro-rolon/)
 Email: german2717@gmail.com
